@@ -9,6 +9,9 @@ Windows desktop monitor with a compact, black-and-white display and a spider mas
 ## Download SPIDERWATCH from the Microsoft Store
 https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ
 
+<img width="176" height="176" alt="Square44x44Logo scale-400" src="https://github.com/user-attachments/assets/54917be2-4613-43c7-bd6c-3285b38d62ae" />
+
+
 ## What you can see
 
 CPU, physical memory and virtual memory usage.
