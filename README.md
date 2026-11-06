@@ -1,7 +1,10 @@
 # SPIDERWATCH
-Windows desktop monitor with a compact, black-and-white display and a spider mascot. It brings system activity, network transfer rates and everyday computer information into one movable window.
 
 <img width="1500" height="347" alt="SPIDERWATCH_scrsht (2)" src="https://github.com/user-attachments/assets/3b0281b7-eb83-4db0-979a-3a9f91178095" />
+
+Windows desktop monitor with a compact, black-and-white display and a spider mascot. It brings system activity, network transfer rates and everyday computer information into one movable window.
+*(it is presentation and support page, not a source code repository)*
+
 
 ## Download SPIDERWATCH from the Microsoft Store
 https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ
@@ -47,7 +50,7 @@ SPIDERWATCH does not automatically upload performance history or diagnostic logs
 
 ## System Requirements
 
-Available on PC Windows 10 version 17763.0 or higher
+Requires Windows 10 version 1809 (build 17763) or later.
 
 ## Credits & Copyright:
 
