@@ -31,6 +31,9 @@ Minimize to tray hides the window while monitoring continues. To restore it, use
 
 Only one SPIDERWATCH instance can run on the computer at a time. Launching it again does not open another window or restore a hidden window; use the tray icon instead.
 
+<img width="701" height="460" alt="SPIDERWATCH_scrsht (1)" src="https://github.com/user-attachments/assets/52a29762-a49b-4bc8-b5a5-6821a40727d1" />
+
+
 ## Your local data
 SPIDERWATCH saves preferences, diagnostic information and performance history in:
 
@@ -42,7 +45,28 @@ Reset history immediately reduces the active history to its header and last reco
 
 SPIDERWATCH does not automatically upload performance history or diagnostic logs. No separate SPIDERWATCH account is required.
 
+## System Requirements
 
+Available on PC Windows 10 version 17763.0 or higher
+
+## Credits & Copyright:
+
+Concept & Software: © Jiri X. Dolezal (https://jxd.cz/)
+
+Photography: © Jaroslav M. Soukup
+
+https://web.facebook.com/profile.php?id=100008282163799
+
+https://www.instagram.com/jaroslavsoukup/
+
+Organization: JXD VibeLabs
+
+Contact: jxd@jxd.cz
+
+Tux © Larry Ewing
 
 ## Download SPIDERWATCH from the Microsoft Store
 https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ
+
+
+<img width="500" height="500" alt="JXD VibeLabs_white_500" src="https://github.com/user-attachments/assets/c79f5e03-2e13-423d-a2a7-8bb98a27a256" />
