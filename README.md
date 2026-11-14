@@ -1,5 +1,7 @@
 # SPIDERWATCH
 
+*Cyber Wabi-Sabi: The Beauty of Simplicity* 
+
 <img width="1500" height="347" alt="SPIDERWATCH_scrsht (2)" src="https://github.com/user-attachments/assets/3b0281b7-eb83-4db0-979a-3a9f91178095" />
 
 Windows desktop monitor with a compact, black-and-white display and a spider mascot. It brings system activity, network transfer rates and everyday computer information into one movable window.
